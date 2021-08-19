@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BlogApp.Models.Blog
 {
-    class Blog
+    public class Blog
     {
         public string Username { get; set; }
         public int UserID { get; set; }
